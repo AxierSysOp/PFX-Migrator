@@ -50,7 +50,7 @@ Lee un directorio local en busca de archivos `.pfx` y los inyecta en el almacén
   ```
 
 ## Autor
-* **Axier Baez** - [@AxierSysOp]
+* **Axier Baez** - (https://github.com/AxierSysOp)
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles.
